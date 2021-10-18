@@ -14,12 +14,12 @@ struct QuizBrain {
         Question(q: "I love Pizza?", a: "True"),
         Question(q: "Cars can fly?", a: "False"),
         Question(q: "Tedito is crazy?", a: "True"),
-        Question(q: "BOYZNIGHT?", a: "True"),
-        Question(q: "Ley Seca?", a: "False"),
-        Question(q: "Drink day?", a: "True"),
-        Question(q: "IOS?", a: "True"),
-        Question(q: "Best App?", a: "False"),
-        Question(q: "God Day?", a: "True")
+        Question(q: "BOYZNIGHT??", a: "True"),
+        Question(q: "Ley Seca??", a: "False"),
+        Question(q: "Drink day??", a: "True"),
+        Question(q: "IOS??", a: "True"),
+        Question(q: "Best App??", a: "False"),
+        Question(q: "God Day??", a: "True")
         
     ]
     
